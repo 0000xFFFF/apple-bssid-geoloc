@@ -2,10 +2,10 @@
 get bssid geolocation (lat, lon) from apple
 
 ## Installation
-``
+```
 ./setup-env.sh
 ./install.sh
-``
+```
 
 ## Usage
 usage: abgl.py [-h] bssid

@@ -8,6 +8,7 @@ get bssid geolocation (lat, lon) from apple
 ```
 
 ## Usage
+```
 usage: abgl.py [-h] bssid
 
 geolocate bssid using apple's servers
@@ -17,6 +18,7 @@ positional arguments:
 
 options:
   -h, --help  show this help message and exit
+```
 
 ## Output
 ```

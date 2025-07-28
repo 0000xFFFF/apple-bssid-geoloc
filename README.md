@@ -2,13 +2,13 @@
 get bssid geolocation (lat, lon) from apple
 
 ## Installation
-```
+```sh
 ./setup-env.sh
 ./install.sh
 ```
 
 ## Usage
-```
+```sh
 abgl <BSSID>
 ```
 ```
